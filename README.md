@@ -1,2 +1,2 @@
 # FACIAL-EXPRESSION-RECOGNIZER-USING-KERAS-OPENCV-FLASK
-A project to detect the 7 basic human expressions.
+Using the concept of machine learning neural network to develop a real-time facial expression recognizer for the seven most basic human expressions, humans are well trained in reading the emotions of others but we wanted to see how well a machine could do the same. So, we designed this which gives machines the ability to make inferences about our emotional states. In other words, we give them eyes to see what we can see.
